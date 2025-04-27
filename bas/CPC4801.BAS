@@ -1,3 +1,6 @@
+10 CLS
+20 PRINT "Listing typed by GreenSnake from Amstrad 100% #48" 
+30 'Provided by Amstrad 100 pour 100 Number 48. Listing typed by GreenSnake
 100 'Creation des sprites pour la demo.
 110 '(C) AMSTRAD 100% & Elmar Krieger
 120 MODE 0:INK 0,0:INK 1,13:INK 2,9:INK 3,3

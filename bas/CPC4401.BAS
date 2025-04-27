@@ -1,3 +1,6 @@
+10 CLS
+20 PRINT "Listing typed by GreenSnake from Amstrad 100% #44" 
+30 'Provided by Amstrad 100 pour 100 Number 44. Listing typed by GreenSnake
 100 FOR I=0 TO 4:READ A$
 110 POKE &9000+I,VAL("&"+A$):NEXT
 120 DATA 7A,4B,C3,34,BD

@@ -1,4 +1,6 @@
-100 '
+100 CLS
+110 PRINT "Listing typed by GreenSnake from Amstrad 100% #47" 
+120 'Provided by Amstrad 100 pour 100 Number 47. Listing typed by GreenSnake
 110 ADR= 16384:FOR I=0 TO 34
 120 FOR J=1 TO 8:READ A$
 130 A=VAL("&"+A$)

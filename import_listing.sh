@@ -1,5 +1,7 @@
 # .BAS file must be saved in CR/LF windows line breaks format
 # and last line of the file must be empty
+./iDSK ./disk/amstrad_100%.dsk -i ./bas/CPC4001.BAS -t 0
+./iDSK ./disk/amstrad_100%.dsk -i ./bas/CPC4002.BAS -t 0
 ./iDSK ./disk/amstrad_100%.dsk -i ./bas/CPC4301.BAS -t 0
 ./iDSK ./disk/amstrad_100%.dsk -i ./bas/CPC4401.BAS -t 0
 ./iDSK ./disk/amstrad_100%.dsk -i ./bas/CPC4402.BAS -t 0

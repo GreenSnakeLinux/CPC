@@ -1,3 +1,6 @@
+10 CLS
+20 PRINT "Listing typed by GreenSnake from Amstrad 100% #48" 
+30 'Provided by Amstrad 100 pour 100 Number 48. Listing typed by GreenSnake
 100 'Mettre les donnees en memoire.
 110 '(C) AMSTRAD 100% & Elmar Krieger
 120 MEMORY &5FFF:dat=&6000:MODE 0:FOR a=0 TO 3:READ b:INK a,b:NEXT:FOR a=4 TO 15:INK a,0,26:NEXT:READ a$:LOAD a$,&C000
