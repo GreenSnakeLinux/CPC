@@ -6,6 +6,8 @@ Filename format: CPC (Cent Pour Cent) + Magazine number (XX) + Listing number (Y
 
 | Filename | Status | Screenshot |
 | --- | --- | --- |
+| CPC4001.BAS |$${\color{green}OK}$$|[Screenshot](/screenshots/cpc4001.png)|
+| CPC4002.BAS |$${\color{green}OK}$$|[Screenshot](/screenshots/cpc4002.png)|
 | CPC4301.BAS |$${\color{green}OK}$$| NA (Music) |
 | CPC4401.BAS |$${\color{green}OK}$$| NA (SFX) |
 | CPC4402.BAS |$${\color{green}OK}$$|[Screenshot](/screenshots/cpc4402.png)|
